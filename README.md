@@ -1,3 +1,4 @@
 # overlay
 Gentoo overlay of
-games-board/YaneuraOu
+* games-board/YaneuraOu
+* media-libs/libhinawa
